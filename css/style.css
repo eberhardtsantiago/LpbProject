@@ -1,3 +1,25 @@
+body{
+    background-image: url(../media/Imagen\ de\ WhatsApp\ 2023-09-03\ a\ las\ 01.02.16.jpg);
+}
 
+h1{
+    text-align: center;
+    padding: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: yellow;
+}
 
-/*# sourceMappingURL=style.css.map */
+h3{
+    color: blue;
+    font-size: 100px;
+    text-align: center;
+    padding: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.carrusel{
+    
+    width: 50%;
+    align-items: center;
+    padding: 5%;
+}
